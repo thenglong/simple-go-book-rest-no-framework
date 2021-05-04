@@ -1,6 +1,6 @@
 ## (GET) Get All Books
 
-[https://book-rest-api-go.herokuapp.com/books](<[https://link](https://book-rest-api-go.herokuapp.com/books)>)
+[https://book-rest-api-go.herokuapp.com/books](https://book-rest-api-go.herokuapp.com/books)
 
 ## (GET) Get Single Book By ID
 
